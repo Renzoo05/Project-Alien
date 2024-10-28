@@ -1,0 +1,15 @@
+body{
+    background: purple;
+}
+
+.title{
+    color: white;
+}
+
+.top-menu{
+    display: flex;
+    gap: 30px;
+    .list-menu a{
+        color: #fff;
+    }
+}
